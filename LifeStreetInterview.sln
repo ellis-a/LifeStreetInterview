@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeStreetInterview", "LifeStreetInterview\LifeStreetInterview.csproj", "{FF1C8C06-E257-49CE-8309-C730605FC5D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContext", "DataContext\DataContext.csproj", "{02B61CB3-31BE-469A-993F-6B55BDC07D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1C8C06-E257-49CE-8309-C730605FC5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1C8C06-E257-49CE-8309-C730605FC5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1C8C06-E257-49CE-8309-C730605FC5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1C8C06-E257-49CE-8309-C730605FC5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B61CB3-31BE-469A-993F-6B55BDC07D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B61CB3-31BE-469A-993F-6B55BDC07D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B61CB3-31BE-469A-993F-6B55BDC07D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B61CB3-31BE-469A-993F-6B55BDC07D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198B35DC-5EA8-40FD-9A38-449F9447C41E}
+	EndGlobalSection
+EndGlobal
